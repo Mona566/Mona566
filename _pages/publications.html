@@ -5,8 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
+{% comment %}
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
+{% endcomment %}
+
+{% if site.author.googlescholar %}
+  <div class="wordwrap">If you are interested in my research, please move to <a href="https://scholar.google.com/citations?hl=en&user=pif5bbwAAAAJ&view_op=list_works&sortby=pubdate">my Google Scholar profile</a>.</div>
 {% endif %}
 
 {% include base_path %}
