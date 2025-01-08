@@ -1,6 +1,6 @@
 ---
 title: 'My interests'
-permalink: /posts/2199/08/future-post-5/
+permalink: /posts/2025/08/future-post-5/
 tags:
   - cool posts
   - category1
