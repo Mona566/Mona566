@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Lianna Zhao completed her PhD in Design Engineering at the Dyson School of Design Engineering, [Imperial College London](https://www.imperial.ac.uk) in 2024, under the supervision of Professor [Robert Shorten](https://robertshorten.com). 
-Her research primarily focused on distributed ledger technology and algorithm design for the network layer and her study was generously funded by the IOTA Foundation. Prior to this, she received an M.S. in Control Engineering from the College of Information Science and Engineering, Northeastern University, China, in 2020, and a BSc in Automation from the College of Engineering, Qufu Normal University, China, in 2017.
+Her research primarily focused on distributed ledger technology and algorithm design for the network layer and her study was generously funded by the [IOTA Foundation](https://www.iota.org/). Prior to this, she received an M.S. in Control Engineering from the College of Information Science and Engineering, Northeastern University, China, in 2020, and a BSc in Automation from the College of Engineering, Qufu Normal University, China, in 2017.
 
 Her research interests include directed acyclic graph - based distributed ledger technologies and their applications, blockchain privacy and security, machine learning with a focus on healthcare, and control theory, particularly in multi-agent systems.
 
