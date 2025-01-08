@@ -1,6 +1,6 @@
 ---
 title: 'My interests'
-permalink: /posts/2012/08/blog-post-5/
+permalink: /posts/2199/08/future-post-5/
 tags:
   - cool posts
   - category1
@@ -9,3 +9,4 @@ tags:
 
 Beyond her academic pursuits, she is interested in hiking, swimming, travel and tennis.
  
+
